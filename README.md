@@ -1,4 +1,4 @@
 # Demo
 my first repository
 <br>
-author:karthik reddy(gangadi)
+author:G.karthik Reddy
